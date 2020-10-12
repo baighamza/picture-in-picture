@@ -21,6 +21,10 @@ psycopg2 - Manipulating data in my local PGAdmin
 
 All data was stored in a pgAdmin Docker container I pulled from Dockerhub
 
+***Note***
+
+All usernames and passwords are provided as default settings
+
 
 
 
