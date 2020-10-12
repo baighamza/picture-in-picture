@@ -21,9 +21,18 @@ psycopg2 - Manipulating data in my local PGAdmin
 
 All data was stored in a pgAdmin Docker container I pulled from Dockerhub
 
+### Screenshots
+
+![pgadmin](picture-in-picture/images/pgadmin.png)
+
 ***Note***
 
 All usernames and passwords are provided as default settings
+
+### Whats Next
+
+* Front-End UI
+* Add in image classification using pre existing libraries
 
 
 
