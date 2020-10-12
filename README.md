@@ -29,6 +29,11 @@ All data was stored in a pgAdmin Docker container I pulled from Dockerhub
 
 All usernames and passwords are provided as default settings
 
+### Whats Next
+
+* Front-End UI
+* Add in image classification using pre existing libraries
+
 
 
 
