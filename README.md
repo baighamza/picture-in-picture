@@ -23,7 +23,7 @@ All data was stored in a pgAdmin Docker container I pulled from Dockerhub
 
 ### Screenshots
 
-![Drag Racing](images/pgadmin.png)
+![pgadmin](picture-in-picture/images/pgadmin.png)
 
 ***Note***
 
